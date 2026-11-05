@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is Sunil Kumar.
+Hello! My name is Sushilkant.
 
 I am a Computer Science student interested in
 programming, software development and learning
